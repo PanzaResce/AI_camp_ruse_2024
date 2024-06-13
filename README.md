@@ -1,4 +1,4 @@
-# AI Camp Ruse 2024
+# AI Camp Ruse 2024 - Tackling Climate Change with Robot learning
 The integration of Artificial Intelligence (AI) and
 robotics into climate action represents a transformative approach to addressing the global challenge of
 climate change. This paper explores the innovative
