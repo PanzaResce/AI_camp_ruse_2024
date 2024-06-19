@@ -20,6 +20,6 @@ the future of AI and robotics in environmental sustainability efforts.</i>
 
 ![img](image.png)
 
-This paper was presented at the International Camp on Artificial Intelligence organized by the University of Ruse under the [MAI4CAREU](https://mai4car.eu/) project.
+This project was presented at the 2<sup>nd</sup> Artificial Intelligence Camp organized by the University of Ruse under the [MAI4CAREU](https://mai4car.eu/) project.
 
 The professor Vassilis Vassiliades (v [dot] vassiliades [at] cyens [dot] org [dot] cy) supervised the work for this paper.
