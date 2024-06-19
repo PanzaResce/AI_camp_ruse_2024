@@ -1,6 +1,6 @@
 # AI Camp Ruse 2024 - Tackling Climate Change with Robot learning
-The integration of Artificial Intelligence (AI) and
-robotics into climate action represents a transformative approach to addressing the global challenge of
+## ABSTRACT
+<i>The integration of Artificial Intelligence (AI) and robotics into climate action represents a transformative approach to addressing the global challenge of
 climate change. This paper explores the innovative
 applications of AI and robotics across various sectors
 such as environmental monitoring, agriculture, waste
@@ -16,4 +16,10 @@ burgeoning field emphasize scaling and affordability
 of technological solutions, advancing regulatory frameworks, and fostering international cooperation to fully
 harness the capabilities of AI and robotics in mitigating climate change impacts. This paper represents a
 comprehensive overview of the current landscape and
-the future of AI and robotics in environmental sustainability efforts.
+the future of AI and robotics in environmental sustainability efforts.</i>
+
+![img](image.png)
+
+This paper was presented at the International Camp on Artificial Intelligence organized by the University of Ruse under the [MAI4CAREU](https://mai4car.eu/) project.
+
+The professor Vassilis Vassiliades (v.vassiliades@cyens.org.cy) supervised the work for this paper.
